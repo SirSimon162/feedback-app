@@ -1,7 +1,7 @@
 # Feedback App
 
 This project was made while learning React. 
-This is a Feedback taking application for a service or product.  It allows users to add, update and delete feedback ad rating (out of 10). Feedback must have more than 10 letters.
+This is a Feedback taking application for a service or product.  It allows users to add, update and delete feedback and rating (out of 10). Feedback must have more than 10 letters.
 ![Feedback App](https://user-images.githubusercontent.com/103681122/205646666-c18e5167-8c69-4781-a34e-7e9d93e26b02.jpg)
 
 ![Feedback App2](https://user-images.githubusercontent.com/103681122/205646691-59ecd255-9062-4d60-a8e3-24fd14b6414a.jpg)
